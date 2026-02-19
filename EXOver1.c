@@ -18,6 +18,8 @@ int main (){
     }
     printf("affivher deux");
     printf("affivher trius");
+    printf(",dnvlkjjknjv");
+    printf("knvrkgotklg");
 
 
 
