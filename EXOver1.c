@@ -16,6 +16,8 @@ int main (){
            cpt++;
         }
     }
+    printf("affivher deux");
+    printf("affivher trius");
 
 
 
